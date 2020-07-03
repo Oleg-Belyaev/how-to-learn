@@ -1,3 +1,7 @@
 @import url(./_theme/table__text_theme_white.css);
 @import url(./_theme/table__text_theme_dark.css);
-@import url(./_author/table__text_author.css);
+.table__text_theme_white {
+  font-size: 18px;
+  line-height: 1.2;
+  display: block;
+}
